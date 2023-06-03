@@ -1,6 +1,5 @@
 # Bank-Management-Systems
 This application handles some of the basics operations of a bank, such as customer's deposit and withdraw, money transaction history, ability to modify the account details. It is a very simplistic bank management system made with Python,PyQt5 and MYSQL.
-![Downloads](https://img.shields.io/github/downloads/JehanPatel/bank-management-system/total) ![Contributors](https://img.shields.io/github/contributors/JehanPatel/bank-management-system?color=dark-green) ![Forks](https://img.shields.io/github/forks/JehanPatel/bank-management-system?style=social) ![Stargazers](https://img.shields.io/github/stars/JehanPatel/bank-management-system?style=social) ![Issues](https://img.shields.io/github/issues/JehanPatel/bank-management-system) 
 
 ## Table Of Contents
 
@@ -65,7 +64,8 @@ Contributions are what make the open source community such an amazing place to b
 
 ## Authors
 
-* **Jehan Patel** - *CSE Core student* - [Jehan Patel](https://github.com/JehanPatel) 
+* **Jehan Patel** - *CSE Core student* - [Jehan Patel](https://github.com/JehanPatel)
+* **Sarvesh Adithya J** - *CSE Core Student* - [Sarvesh Adithya J](https://github.com/sarveshadithya17)
 * **Neel Jain** - *CSE Core student* - [Neel Jain](https://github.com/Neel-2002) 
 * **Abhinav** - *CSE Core student* - [Abhinav](https://github.com/Abhinav4291) 
 * **Juss Patel** - *Student* - [Juss Patel](https://github.com/jusspatel)
